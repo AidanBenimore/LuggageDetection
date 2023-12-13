@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+br/
+
+# Ignore Python byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
